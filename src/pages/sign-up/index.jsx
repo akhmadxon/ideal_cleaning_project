@@ -35,7 +35,7 @@ const Index = () => {
                 }}
             />
             <div className="w-full h-screen flex items-center justify-center p-4">
-                <div className=" p-8 shadow-lg rounded-lg w-full max-w-sm sm:max-w-md lg:max-w-lg">
+                <div className=" p-8  rounded-lg w-full max-w-sm sm:max-w-md lg:max-w-lg">
                     <h1 className="text-center my-3 font-medium text-2xl lg:text-4xl">
                         Register
                     </h1>
